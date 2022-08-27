@@ -1,0 +1,8 @@
+This a Insight Data Project.
+
+This Project is to count the number of pharmacy stores.
+
+The input is a file of Medicare & Medicaid Services from https://www.data.gov/.
+
+The output of this code is a list of all drugs with "num_prescriber" and "total_cost". The sort of this list is in descending order of the total drug cost and if there is a tie, drug name in ascending order.
+The total cost was round to an integer.  
